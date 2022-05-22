@@ -1,3 +1,5 @@
+//not sure yet how to make a makerfile did not go over that in cs202 at my other collge will ask questions in class.
+
 #ifndef BUS_H
 #define BUS_H
 
